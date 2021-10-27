@@ -1,10 +1,12 @@
 const Madame = {
-    firstName: "Lady",
-    lastName: "Mademoiselle",
+    name: "Lady Mademoiselle",
     height: "175 cm",
     weight: "61 kg"
 }
 
-function argument(Madame) {
+console.log(Madame)
 
+function bmicalc(Madame) {
+    return Madame.weight / (Madame.height / 100) ** 2
 }
+console.log(bmicalc(Madame))
