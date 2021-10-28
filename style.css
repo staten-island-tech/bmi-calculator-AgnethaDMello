@@ -3,7 +3,7 @@ body,
 *{
     padding: 0;
     margin: 0;
-    background-color: rgb(206, 151, 115);
+    background-color: rgb(206, 115, 115);
     color: rgb(0,0,0);
     font-family: 'Zen Kurenaido', sans-serif;
     font-size: 62.5%;
@@ -11,11 +11,11 @@ body,
 }
 #main-header{
     padding: 5rem;
-    background-color: rgb(243, 231, 164);
+    background-color: rgb(221, 45, 29);
     text-align: center;
     margin: 0%;
     font-size: 9rem;
-    border: dotted rgb(180, 112, 112) 1rem;
+    border: dotted rgb(0, 0, 0) 1rem;
 }
 #woman{
     width: 25rem;
